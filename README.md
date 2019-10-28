@@ -6,4 +6,4 @@ I have performed predictions using Decision trees, Linear regression, and kNN(k 
     matplotlib\
     pandas\
     seaborn\
-All plots and results can be view using Jupyter notebook.
+All plots and results can be viewed using Jupyter notebook.
